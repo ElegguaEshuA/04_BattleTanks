@@ -30,3 +30,7 @@
 16
 + Let’s find the essence of fun of this game.
 17
+
+## Lecture List
+* BT01 Intro, Notes & Assets
+* BT02 Game Design Document (GDD)
